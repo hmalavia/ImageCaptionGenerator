@@ -1,0 +1,4 @@
+\.env
+\.virenv
+\images
+\__pycache__
